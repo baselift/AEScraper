@@ -1,0 +1,2234 @@
+[
+        {
+                "item_name": "AE Trekker Jogger",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "45.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/joggers-sweatpants/khaki-joggers/ae-trekker-jogger/0129_4571_010?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 6
+                }
+        },
+        {
+                "item_name": "AE 24/7 Good Vibes Jogger",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "48.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-good-vibes-jogger/1229_4781_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 7
+                }
+        },
+        {
+                "item_name": "AE 24/7 Training Jogger",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "32.47"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-training-jogger/1122_4768_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 8
+                }
+        },
+        {
+                "item_name": "AE 24/7 Good Vibes Tech Jogger",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "56.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-good-vibes-tech-jogger/2123_4798_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 9
+                }
+        },
+        {
+                "item_name": "AE 24/7 Good Vibes Cotton Jogger",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "48.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-good-vibes-cotton-jogger/2123_4795_212?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 10
+                }
+        },
+        {
+                "item_name": "AE 24/7 Training 7\" Jogger Short",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "21.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-training-7-jogger-short/4134_7528_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 11
+                }
+        },
+        {
+                "item_name": "AE Flannel Joggers",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": "19.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/loungewear/bottoms/ae-flannel-joggers/0239_7205_008?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 12
+                }
+        },
+        {
+                "item_name": "AE 24/7 Good Vibes Cargo Jogger",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "52.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-good-vibes-cargo-jogger/1229_4792_020?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 13
+                }
+        },
+        {
+                "item_name": "AE 7\" Tie-Dye Fleece Jogger Short",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "21.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jogger-shorts/fleece-jogger-shorts/ae-7-tie-dye-fleece-jogger-short/4131_7531_899?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 14
+                }
+        },
+        {
+                "item_name": "AE 24/7 AirFlex+ Venture Out Cargo Jogger",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "56.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-airflex-venture-out-cargo-jogger/2123_4819_293?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 15
+                }
+        },
+        {
+                "item_name": "AE 24/7 Good Vibes Zip Pocket 8\" Jogger Short",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "41.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-good-vibes-zip-pocket-8-jogger-short/1130_7568_069?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 16
+                }
+        },
+        {
+                "item_name": "AE Flex 5.5\" Trekker Jogger Short",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "21.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/joggers-sweatpants/jogger-shorts/ae-flex-5-5-trekker-jogger-short/4132_7262_570?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 17
+                }
+        },
+        {
+                "item_name": "AE Pride Flex 5.5\" Trekker Jogger Short",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "23.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/trekker-shorts/lived-in-trekker-shorts/ae-pride-flex-5-5-trekker-jogger-short/4132_7523_167?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 18
+                }
+        },
+        {
+                "item_name": "AE 5.5\" Active 24/7 Jogger Short",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "21.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-5-5-active-24/7-jogger-short/1130_7295_062?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 19
+                }
+        },
+        {
+                "item_name": "AE Halloween Flannel Jogger",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": "19.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/loungewear/bottoms/ae-halloween-flannel-jogger/0239_7424_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 20
+                }
+        },
+        {
+                "item_name": "AE Super Soft Icon Jogger",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "25.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/joggers-sweatpants/cotton-joggers/ae-super-soft-icon-jogger/1522_4707_092?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 21
+                }
+        },
+        {
+                "item_name": "AE Hooded Denim Trucker Jacket",
+                "price": {
+                        "regular_price": "124.95",
+                        "sale_price": "89.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/jackets/ae-hooded-denim-trucker-jacket/0106_1537_400?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jacket",
+                        "row": 6
+                }
+        },
+        {
+                "item_name": "AE Fleece Hooded Workwear Jacket",
+                "price": {
+                        "regular_price": "124.95",
+                        "sale_price": "112.45"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/jackets/ae-fleece-hooded-workwear-jacket/2101_1549_200?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jacket",
+                        "row": 7
+                }
+        },
+        {
+                "item_name": "AE Hooded Canvas Trucker Jacket",
+                "price": {
+                        "regular_price": "124.95",
+                        "sale_price": "89.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/jackets/ae-hooded-canvas-trucker-jacket/2101_1542_004?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jacket",
+                        "row": 8
+                }
+        },
+        {
+                "item_name": "AE Denim Trucker Jacket",
+                "price": {
+                        "regular_price": "99.95",
+                        "sale_price": "74.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/jackets/ae-denim-trucker-jacket/0106_1540_401?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jacket",
+                        "row": 9
+                }
+        },
+        {
+                "item_name": "AE 24/7 Venture Out Windbreaker Jacket",
+                "price": {
+                        "regular_price": "124.95",
+                        "sale_price": "99.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/tops/ae-24/7-venture-out-windbreaker-jacket/0104_1536_200?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jacket",
+                        "row": 10
+                }
+        },
+        {
+                "item_name": "AE 24/7 Good Vibes Pant",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-good-vibes-pant/2123_4813_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 22
+                }
+        },
+        {
+                "item_name": "AE 24/7 Zip-Up Training Hoodie",
+                "price": {
+                        "regular_price": "84.95",
+                        "sale_price": "40.00"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/view-all-hoodie-sweatshirts/ae-24/7-zip-up-training-hoodie/0196_2170_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jacket",
+                        "row": 11
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Temp Tech Athletic Fit Jean",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "48.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/athletic-fit-jeans/athletic-fit-jeans/ae-airflex-temp-tech-athletic-fit-jean/0118_6327_428?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "tech",
+                        "row": 7
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Temp Tech Athletic Straight Jean",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "38.97"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/athletic-fit-jeans/athletic-straight-jeans/ae-airflex-temp-tech-athletic-straight-jean/1115_6325_965?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "tech",
+                        "row": 8
+                }
+        },
+        {
+                "item_name": "AE 24/7 Good Vibes Athletic Tech Khaki Pant",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "52.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-good-vibes-athletic-tech-khaki-pant/2123_4800_020?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "tech",
+                        "row": 9
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Temp Tech Slim Jean",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "24.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/slim-fit-jeans/slim-jeans/ae-airflex-temp-tech-slim-jean/0117_6372_464?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "tech",
+                        "row": 10
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Temp Tech Skinny Jean",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "24.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/skinny-jeans/skinny-jeans/ae-airflex-temp-tech-skinny-jean/0119_6291_074?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "tech",
+                        "row": 11
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Temp Tech Patched Baggy Jean",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "37.47"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/relaxed-fit-jeans/baggy-jeans/ae-airflex-temp-tech-patched-baggy-jean/1114_6396_445?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "tech",
+                        "row": 12
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Temp Tech Athletic Skinny Jean",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "24.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/athletic-fit-jeans/athletic-skinny-jeans/ae-airflex-temp-tech-athletic-skinny-jean/0114_6326_496?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "tech",
+                        "row": 13
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Temp Tech Patched Athletic Skinny Jean",
+                "price": {
+                        "regular_price": "89.95",
+                        "sale_price": "67.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/athletic-fit-jeans/athletic-skinny-jeans/ae-airflex-temp-tech-patched-athletic-skinny-jean/0114_5692_439?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "tech",
+                        "row": 14
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Temp Tech Baggy Jean",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/relaxed-fit-jeans/baggy-jeans/ae-airflex-temp-tech-baggy-jean/1114_6394_987?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "tech",
+                        "row": 15
+                }
+        },
+        {
+                "item_name": "AE Flex Slim Straight Lived-In Khaki Pant",
+                "price": {
+                        "regular_price": "69.95",
+                        "sale_price": "48.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/khaki-pants/slim-straight/ae-flex-slim-straight-lived-in-khaki-pant/0128_4805_210?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "ayush",
+                        "row": 6
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Athletic Straight Jean",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "51.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/athletic-fit-jeans/athletic-straight-jeans/ae-airflex-athletic-straight-jean/1115_6399_914?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "ayush",
+                        "row": 7
+                }
+        },
+        {
+                "item_name": "AE Classic Winter Sock",
+                "price": {
+                        "regular_price": "12.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/socks/classic-socks/ae-classic-winter-sock/0225_7464_131?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "ayush",
+                        "row": 8
+                }
+        },
+        {
+                "item_name": "AE 24/7 Jogger",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/joggers-sweatpants/now-trending-24/7-joggers/ae-24/7-jogger/1229_4781_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 23
+                }
+        },
+        {
+                "item_name": "AE 24/7 Cargo Jogger",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "52.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/active-joggers/ae-24/7-joggers/ae-24/7-cargo-jogger/1229_4791_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 24
+                }
+        },
+        {
+                "item_name": "AE 24/7 AirFlex+ Cargo Jogger",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "52.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/active-joggers/ae-24/7-joggers/ae-24/7-airflex-cargo-jogger/2123_4819_293?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 25
+                }
+        },
+        {
+                "item_name": "AE 24/7 Jogger + Hoodie Set",
+                "price": {
+                        "regular_price": "119.95",
+                        "sale_price": "83.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/joggers-sweatpants/now-trending-24/7-joggers/ae-24/7-jogger-hoodie-set/1183_4834_020?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 26
+                }
+        },
+        {
+                "item_name": "AE Super Soft Sweatpant",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "45.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/joggers-sweatpants/cotton-joggers/ae-super-soft-sweatpant/1522_4790_020?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 27
+                }
+        },
+        {
+                "item_name": "AE 24/7 Athletic Fit Tech Khaki Pant",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "52.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/active-joggers/ae-24/7-tech-joggers/ae-24/7-athletic-fit-tech-khaki-pant/2123_4800_238?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 28
+                }
+        },
+        {
+                "item_name": "AE 24/7 Tech Jogger",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "52.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/active-joggers/ae-24/7-tech-joggers/ae-24/7-tech-jogger/2123_4798_238?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 29
+                }
+        },
+        {
+                "item_name": "AE 24/7 Cotton Jogger",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "45.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/joggers-sweatpants/active-joggers/ae-24/7-cotton-jogger/2123_4795_212?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 30
+                }
+        },
+        {
+                "item_name": "AE 24/7 Zip Pocket 8\" Jogger Short",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "38.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jogger-shorts/ae-24/7-jogger-shorts/ae-24/7-zip-pocket-8-jogger-short/1130_7568_062?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 31
+                }
+        },
+        {
+                "item_name": "AE 24/7 5.5\" Trekker Short",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "21.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/bottoms/ae-24/7-5-5-trekker-short/4132_7414_400?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 32
+                }
+        },
+        {
+                "item_name": "AE 24/7 Training 6\" Short",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "38.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jogger-shorts/ae-24/7-jogger-shorts/ae-24/7-training-6-short/4134_7520_951?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 33
+                }
+        },
+        {
+                "item_name": "AE 24/7 Training 6\" Lined Short",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "41.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jogger-shorts/ae-24/7-jogger-shorts/ae-24/7-training-6-lined-short/4134_7525_951?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 34
+                }
+        },
+        {
+                "item_name": "AE 24/7 Training Pant",
+                "price": {
+                        "regular_price": "69.95",
+                        "sale_price": "48.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/active-joggers/ae-24/7-training-joggers/ae-24/7-training-pant/2123_4825_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 35
+                }
+        },
+        {
+                "item_name": "AE 24/7 5.5\" Training Short",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "41.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jogger-shorts/ae-24/7-training-shorts/ae-24/7-5-5-training-short/4134_7741_951?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 36
+                }
+        },
+        {
+                "item_name": "AE Lounge Jogger",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": "34.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/loungewear-pjs/bottoms/ae-lounge-jogger/0239_7632_020?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "jogger",
+                        "row": 37
+                }
+        },
+        {
+                "item_name": "AE Mickey Mouse Halloween Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/halloween/ae-mickey-mouse-halloween-graphic-t-shirt/0185_4096_023?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 6
+                }
+        },
+        {
+                "item_name": "AE Micro Logo Graphic T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "22.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/oversized-t-shirts/ae-micro-logo-graphic-t-shirt/1162_4171_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 7
+                }
+        },
+        {
+                "item_name": "AE Disney Halloween Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/halloween/ae-disney-halloween-graphic-t-shirt/0185_3954_106?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 8
+                }
+        },
+        {
+                "item_name": "AE Snoopy Halloween Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/halloween/ae-snoopy-halloween-graphic-t-shirt/0185_3851_020?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 9
+                }
+        },
+        {
+                "item_name": "AE Long-Sleeve Washed Thermal T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/thermal-t-shirts/thermals/ae-long-sleeve-washed-thermal-t-shirt/2171_4098_864?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 10
+                }
+        },
+        {
+                "item_name": "AE Long-Sleeve Thermal Henley T-Shirt",
+                "price": {
+                        "regular_price": "44.95",
+                        "sale_price": "33.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/thermal-t-shirts/thermals/ae-long-sleeve-thermal-henley-t-shirt/4171_3788_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 11
+                }
+        },
+        {
+                "item_name": "AE Budweiser Vintage Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/graphic-tees/ae-budweiser-vintage-graphic-t-shirt/0185_4116_094?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 12
+                }
+        },
+        {
+                "item_name": "AE NFL Philadelphia Eagles Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-philadelphia-eagles-graphic-t-shirt/0164_4182_014?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 13
+                }
+        },
+        {
+                "item_name": "AE Pique T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "19.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/crew-neck-t-shirts/ae-pique-t-shirt/0180_4166_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 14
+                }
+        },
+        {
+                "item_name": "AE Peanuts Halloween Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/halloween/ae-peanuts-halloween-graphic-t-shirt/0185_3852_008?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 15
+                }
+        },
+        {
+                "item_name": "AE Vintage Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/pop-culture/ae-vintage-graphic-t-shirt/0181_4117_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 16
+                }
+        },
+        {
+                "item_name": "AE NFL San Francisco 49ers Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-san-francisco-49ers-graphic-t-shirt/0164_4181_062?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 17
+                }
+        },
+        {
+                "item_name": "AE Busch Vintage Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/graphic-tees/ae-busch-vintage-graphic-t-shirt/0185_4115_106?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 18
+                }
+        },
+        {
+                "item_name": "AE NFL Pittsburgh Steelers Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-pittsburgh-steelers-graphic-t-shirt/0164_4181_092?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 19
+                }
+        },
+        {
+                "item_name": "AE NFL Kansas City Chiefs Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-kansas-city-chiefs-graphic-t-shirt/0164_4182_167?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 20
+                }
+        },
+        {
+                "item_name": "AE Legend T-Shirt",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "14.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/crew-neck-t-shirts/ae-legend-t-shirt/1164_3583_614?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 21
+                }
+        },
+        {
+                "item_name": "AE Overshirt",
+                "price": {
+                        "regular_price": "84.95",
+                        "sale_price": "63.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/shirt-jackets/ae-overshirt/2512_6440_028?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 22
+                }
+        },
+        {
+                "item_name": "AE NFL Green Bay Packers Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-green-bay-packers-graphic-t-shirt/0164_4181_006?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 23
+                }
+        },
+        {
+                "item_name": "AE Stretch Flannel Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/flannel-shirts/ae-stretch-flannel-shirt/2151_6372_031?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 24
+                }
+        },
+        {
+                "item_name": "AE Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "16.48"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/poolside-shirts/ae-button-up-poolside-shirt/2154_6236_465?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 25
+                }
+        },
+        {
+                "item_name": "AE Logo Graphic T-Shirt",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "18.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/branded/ae-logo-graphic-t-shirt/0181_3884_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 26
+                }
+        },
+        {
+                "item_name": "AE Quarter-Zip Polo Collar Sweatshirt",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "56.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/zip-up-hoodies/ae-quarter-zip-polo-collar-sweatshirt/1186_2317_008?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 27
+                }
+        },
+        {
+                "item_name": "AE Ford Bronco Vintage Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/graphic-tees/ae-ford-bronco-vintage-graphic-t-shirt/0185_4118_200?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 28
+                }
+        },
+        {
+                "item_name": "AE NFL Miami Dolphins Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-miami-dolphins-graphic-t-shirt/0164_4181_033?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 29
+                }
+        },
+        {
+                "item_name": "AE Plaid Overshirt",
+                "price": {
+                        "regular_price": "84.95",
+                        "sale_price": "63.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/shirt-jackets/ae-plaid-overshirt/2512_6439_249?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 30
+                }
+        },
+        {
+                "item_name": "AE NFL New York Giants Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-new-york-giants-graphic-t-shirt/0164_4181_069?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 31
+                }
+        },
+        {
+                "item_name": "AE Grinch PJ Set",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/loungewear-pjs/pajamas/ae-grinch-pj-set/0554_7913_020?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 32
+                }
+        },
+        {
+                "item_name": "AE Textured Button-Up Sweater Polo Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-textured-button-up-sweater-polo-shirt/1148_1982_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 33
+                }
+        },
+        {
+                "item_name": "AE NFL Baltimore Ravens Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-baltimore-ravens-graphic-t-shirt/0164_4182_094?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 34
+                }
+        },
+        {
+                "item_name": "AE NFL Seattle Seahawks Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-seattle-seahawks-graphic-t-shirt/0164_4182_081?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 35
+                }
+        },
+        {
+                "item_name": "AE Waffle Button-Up Sweater Polo Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-waffle-button-up-sweater-polo-shirt/1148_2028_286?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 36
+                }
+        },
+        {
+                "item_name": "AE Denim Overshirt",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "56.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/shirt-jackets/ae-denim-overshirt/2512_6345_404?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 37
+                }
+        },
+        {
+                "item_name": "AE NFL Jacksonville Jaguars Graphic T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/ae-nfl-collection/ae-nfl-jacksonville-jaguars-graphic-t-shirt/0164_4182_045?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 38
+                }
+        },
+        {
+                "item_name": "AE Everyday Oxford Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "17.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/everyday-shirts/everyday-oxford-shirts/ae-everyday-oxford-button-up-shirt/0153_5932_100?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 39
+                }
+        },
+        {
+                "item_name": "AE Denim Overshirt Jacket",
+                "price": {
+                        "regular_price": "99.95",
+                        "sale_price": "74.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-denim-overshirt-jacket/0106_1668_420?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 40
+                }
+        },
+        {
+                "item_name": "AE Diamond Crochet Button-Up Sweater Polo Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/polos/sweater-polos/ae-diamond-crochet-button-up-sweater-polo-shirt/1148_1842_102?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 41
+                }
+        },
+        {
+                "item_name": "AE Peanuts PJ Set",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/loungewear-pjs/pajamas/ae-peanuts-pj-set/0554_7914_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 42
+                }
+        },
+        {
+                "item_name": "AE Holiday Grinch Beanie",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/accessories-socks/hats/ae-holiday-grinch-beanie/0222_7922_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 43
+                }
+        },
+        {
+                "item_name": "AE Holiday Snoopy Beanie",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/accessories-socks/hats/ae-holiday-snoopy-beanie/0222_7921_100?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 44
+                }
+        },
+        {
+                "item_name": "AE Printed Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "16.48"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/poolside-shirts/ae-printed-button-up-poolside-shirt/2154_6333_331?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 45
+                }
+        },
+        {
+                "item_name": "AE Long-Sleeve Shaker Crew Neck Sweater",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "56.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-long-sleeve-shaker-crew-neck-sweater/1142_1940_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 46
+                }
+        },
+        {
+                "item_name": "AE Varsity Bomber Jacket",
+                "price": {
+                        "regular_price": "149.95",
+                        "sale_price": "112.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-varsity-bomber-jacket/2101_1676_005?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 47
+                }
+        },
+        {
+                "item_name": "AE Boucle Long-Sleeve Button-Up Cardigan",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "56.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-boucle-long-sleeve-button-up-cardigan/1149_1864_016?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 48
+                }
+        },
+        {
+                "item_name": "AE Snoopy Graphic T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "11.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/pop-culture/ae-snoopy-graphic-t-shirt/0185_3916_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 49
+                }
+        },
+        {
+                "item_name": "AE Stretch Canvas Long-Sleeve Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/shirt-jackets/ae-stretch-canvas-long-sleeve-button-up-shirt/2151_6339_161?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 50
+                }
+        },
+        {
+                "item_name": "AE Stretch Legend T-Shirt",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "14.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/crew-neck-t-shirts/ae-stretch-legend-t-shirt/0180_3768_610?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 51
+                }
+        },
+        {
+                "item_name": "AE Everyday Poplin Striped Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "17.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/everyday-shirts/everyday-oxford-shirts/ae-everyday-poplin-striped-button-up-shirt/0153_6160_109?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 52
+                }
+        },
+        {
+                "item_name": "AE Legend Slim Fit T-Shirt",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "18.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/crew-neck-t-shirts/ae-legend-slim-fit-t-shirt/1164_3917_613?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 53
+                }
+        },
+        {
+                "item_name": "AE 24/7 Full-Zip Hoodie",
+                "price": {
+                        "regular_price": "84.95",
+                        "sale_price": "33.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/active-hoodies/ae-24/7-full-zip-hoodie/0196_2259_062?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 54
+                }
+        },
+        {
+                "item_name": "AE Striped Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "17.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/poolside-shirts/ae-striped-button-up-poolside-shirt/2154_6321_212?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 55
+                }
+        },
+        {
+                "item_name": "AE Beatles Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "15.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/pop-culture/ae-beatles-graphic-t-shirt/0185_3950_106?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 56
+                }
+        },
+        {
+                "item_name": "AE Short-Sleeve Sweater T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "15.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-short-sleeve-sweater-t-shirt/1149_1886_008?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 57
+                }
+        },
+        {
+                "item_name": "AE Long-Sleeve Heavyweight T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/long-sleeve-t-shirts/crew-neck-t-shirts/ae-long-sleeve-heavyweight-t-shirt/2171_3784_069?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 58
+                }
+        },
+        {
+                "item_name": "AE Logo Graphic Hoodie T-Shirt",
+                "price": {
+                        "regular_price": "49.95",
+                        "sale_price": "37.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/hoodie-t-shirts/ae-logo-graphic-hoodie-t-shirt/1175_3807_300?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 59
+                }
+        },
+        {
+                "item_name": "AE Linen-Blend Mechanic Shirt",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "22.48"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/shirt-jackets/ae-linen-blend-mechanic-shirt/2512_6256_201?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 60
+                }
+        },
+        {
+                "item_name": "AE Workwear Vest",
+                "price": {
+                        "regular_price": "84.95",
+                        "sale_price": "63.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-workwear-vest/2101_1690_234?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 61
+                }
+        },
+        {
+                "item_name": "AE Oversized T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "22.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/oversized-t-shirts/ae-oversized-t-shirt/1164_3722_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 62
+                }
+        },
+        {
+                "item_name": "AE Linen-Blend Striped Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "16.48"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/poolside-shirts/ae-linen-blend-striped-button-up-poolside-shirt/2154_6320_010?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 63
+                }
+        },
+        {
+                "item_name": "AE Oversized Photo Graphic T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "22.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/oversized-t-shirts/ae-oversized-photo-graphic-t-shirt/0181_3832_106?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 64
+                }
+        },
+        {
+                "item_name": "AE 24/7 Stretch Short Sleeve Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "17.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/ae-24/7-poolside-shirt/ae-24/7-stretch-short-sleeve-button-up-shirt/2154_6243_400?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 65
+                }
+        },
+        {
+                "item_name": "AE Chambray Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "16.48"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/poolside-shirts/ae-chambray-button-up-poolside-shirt/2154_6260_515?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 66
+                }
+        },
+        {
+                "item_name": "AE 24/7 Pocket T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/tops/ae-24/7-pocket-t-shirt/1164_3820_106?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 67
+                }
+        },
+        {
+                "item_name": "AE Oversized Striped T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/oversized-t-shirts/ae-oversized-striped-t-shirt/1164_3781_256?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 68
+                }
+        },
+        {
+                "item_name": "AE 24/7 Stretch Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "17.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/ae-24/7-poolside-shirt/ae-24/7-stretch-button-up-poolside-shirt/2154_6274_414?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 69
+                }
+        },
+        {
+                "item_name": "AE Oversized V-Neck T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "19.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/oversized-t-shirts/ae-oversized-v-neck-t-shirt/1177_3767_451?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 70
+                }
+        },
+        {
+                "item_name": "AE Graphic T-Shirt",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "18.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/branded/ae-graphic-t-shirt/0181_3879_207?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 71
+                }
+        },
+        {
+                "item_name": "AE Stretch Chambray Long-Sleeve Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/shirt-jackets/ae-stretch-chambray-long-sleeve-button-up-shirt/2151_6335_532?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 72
+                }
+        },
+        {
+                "item_name": "AE Everyday Twill Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/everyday-shirts/everyday-oxford-shirts/ae-everyday-twill-button-up-shirt/0153_6349_216?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 73
+                }
+        },
+        {
+                "item_name": "AE Linen-Blend Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "27.47"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/poolside-shirts/ae-linen-blend-button-up-poolside-shirt/2154_6319_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 74
+                }
+        },
+        {
+                "item_name": "AE Legend Slim T-Shirt",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "18.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/crew-neck-t-shirts/ae-legend-slim-t-shirt/1164_3591_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 75
+                }
+        },
+        {
+                "item_name": "AE Legend Henley T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "22.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/henley-t-shirts/ae-legend-henley-t-shirt/4165_3531_306?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 76
+                }
+        },
+        {
+                "item_name": "AE Pride Graphic T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "11.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/branded/ae-pride-graphic-t-shirt/0181_3908_700?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 77
+                }
+        },
+        {
+                "item_name": "AE 24/7 Stretch Printed Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "17.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/ae-24/7-poolside-shirt/ae-24/7-stretch-printed-button-up-poolside-shirt/2154_6288_339?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 78
+                }
+        },
+        {
+                "item_name": "AE Everyday Poplin Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/everyday-shirts/everyday-oxford-shirts/ae-everyday-poplin-button-up-shirt/0153_6356_169?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 79
+                }
+        },
+        {
+                "item_name": "AE Pride Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "16.48"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/poolside-shirts/ae-pride-button-up-poolside-shirt/2154_6306_119?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 80
+                }
+        },
+        {
+                "item_name": "AE 24/7 Training T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "22.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/tops/ae-24/7-training-t-shirt/1164_3853_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 81
+                }
+        },
+        {
+                "item_name": "AE Plaid Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "27.47"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/poolside-shirts/ae-plaid-button-up-poolside-shirt/2154_6323_302?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 82
+                }
+        },
+        {
+                "item_name": "AE Fleece Shirt Jacket",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "37.47"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/shirts-flannels/shirt-jackets/ae-fleece-shirt-jacket/0199_2343_200?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 83
+                }
+        },
+        {
+                "item_name": "AE Legend T-Shirt 3-Pack",
+                "price": {
+                        "regular_price": "44.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/multipack-t-shirts/ae-legend-t-shirt-3-pack/1163_3934_900?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 84
+                }
+        },
+        {
+                "item_name": "AE Everyday Oxford Striped Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/everyday-shirts/everyday-oxford-shirts/ae-everyday-oxford-striped-button-up-shirt/0153_6354_266?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 85
+                }
+        },
+        {
+                "item_name": "AE Everyday Relaxed Striped Oxford Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/everyday-shirts/everyday-oxford-shirts/ae-everyday-relaxed-striped-oxford-button-up-shirt/0153_6149_610?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 86
+                }
+        },
+        {
+                "item_name": "AE Fleece Trucker Shirt Jacket",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "29.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-fleece-trucker-shirt-jacket/0199_2244_334?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 87
+                }
+        },
+        {
+                "item_name": "AE Legend V-Neck T-Shirt",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "18.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/v-neck-t-shirts/ae-legend-v-neck-t-shirt/1177_3723_100?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 88
+                }
+        },
+        {
+                "item_name": "AE Everyday Denim Button-Up Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/everyday-shirts/everyday-oxford-shirts/ae-everyday-denim-button-up-shirt/0153_6231_523?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 89
+                }
+        },
+        {
+                "item_name": "AE Legend T-Shirt 5-Pack",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": null
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/multipack-t-shirts/ae-legend-t-shirt-5-pack/1163_4101_900?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 90
+                }
+        },
+        {
+                "item_name": "AE Pride Graphic Muscle Tank Top",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "9.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/tank-tops/ae-pride-graphic-muscle-tank-top/1161_3910_100?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 91
+                }
+        },
+        {
+                "item_name": "AE Bud Light Graphic T-Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "15.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/pop-culture/ae-bud-light-graphic-t-shirt/0185_3524_451?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 92
+                }
+        },
+        {
+                "item_name": "AE Pride Sweater Tank Top",
+                "price": {
+                        "regular_price": "34.95",
+                        "sale_price": "13.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-pride-sweater-tank-top/1149_1849_615?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 93
+                }
+        },
+        {
+                "item_name": "AE Legend Pique Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "15.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/polos/pique-polos/ae-legend-pique-polo-shirt/1165_3594_395?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 94
+                }
+        },
+        {
+                "item_name": "AE Logo Graphic Hoodie",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/pullover-hoodies/ae-logo-graphic-hoodie/0193_2302_024?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 95
+                }
+        },
+        {
+                "item_name": "AE Ribbed Tank Top",
+                "price": {
+                        "regular_price": "12.95",
+                        "sale_price": "9.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/loungewear-pjs/tops/ae-ribbed-tank-top/0551_3019_100?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 96
+                }
+        },
+        {
+                "item_name": "AE Skeleton Halloween Graphic T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "22.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/halloween/ae-skeleton-halloween-graphic-t-shirt/0181_3953_100?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 97
+                }
+        },
+        {
+                "item_name": "AE 24/7 Graphic T-Shirt",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "18.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/active/ae-24/7-graphic-t-shirt/0181_3842_100?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 98
+                }
+        },
+        {
+                "item_name": "AE Weekend Sweater Polo Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "35.97"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-weekend-sweater-polo-shirt/1149_1837_256?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 99
+                }
+        },
+        {
+                "item_name": "AE 24/7 Hoodie",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "49.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/active-hoodies/ae-24/7-hoodie/0195_2202_219?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 100
+                }
+        },
+        {
+                "item_name": "AE Striped Button-Up Sweater Polo Shirt",
+                "price": {
+                        "regular_price": "69.95",
+                        "sale_price": "52.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-striped-button-up-sweater-polo-shirt/1149_1840_401?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 101
+                }
+        },
+        {
+                "item_name": "AE Legend Jersey Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/polos/jersey-polos/ae-legend-jersey-polo-shirt/1165_3727_448?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 102
+                }
+        },
+        {
+                "item_name": "AE Weekend Button-Up Sweater Polo Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-weekend-button-up-sweater-polo-shirt/1149_1986_209?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 103
+                }
+        },
+        {
+                "item_name": "AE Weekend Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "15.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/polos/relaxed-polos/ae-weekend-polo-shirt/1165_3657_211?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 104
+                }
+        },
+        {
+                "item_name": "AE Striped Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/polos/jersey-polos/ae-striped-polo-shirt/1165_3883_615?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 105
+                }
+        },
+        {
+                "item_name": "AE Striped Sweater Polo Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "32.97"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-striped-sweater-polo-shirt/1149_1878_050?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 106
+                }
+        },
+        {
+                "item_name": "AE Weekend Tipped Sweater Polo Shirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "35.97"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/polos/sweater-polos/ae-weekend-tipped-sweater-polo-shirt/1149_1985_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 107
+                }
+        },
+        {
+                "item_name": "AE Jersey Striped Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/polos/jersey-polos/ae-jersey-striped-polo-shirt/1165_3458_487?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 108
+                }
+        },
+        {
+                "item_name": "AE Striped Weekend Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "19.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/polos/relaxed-polos/ae-striped-weekend-polo-shirt/1165_3819_167?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 109
+                }
+        },
+        {
+                "item_name": "AE 24/7 Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/tops/ae-24/7-polo-shirt/1165_3829_211?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 110
+                }
+        },
+        {
+                "item_name": "AE 24/7 Mesh Training Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/active-t-shirts/active-t-shirts/ae-24/7-mesh-training-polo-shirt/1165_3873_100?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 111
+                }
+        },
+        {
+                "item_name": "AE Legend Slim Fit Pique Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/polos/pique-polos/ae-legend-slim-fit-pique-polo-shirt/1165_3741_008?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 112
+                }
+        },
+        {
+                "item_name": "AE 24/7 Snap Collar Training Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/tops/ae-24/7-snap-collar-training-polo-shirt/1165_3872_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 113
+                }
+        },
+        {
+                "item_name": "AE Waffle Sweater Polo Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "21.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-waffle-sweater-polo-shirt/1149_1885_102?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 114
+                }
+        },
+        {
+                "item_name": "AE 24/7 Training Polo Shirt",
+                "price": {
+                        "regular_price": "39.95",
+                        "sale_price": "29.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/tops/ae-24/7-training-polo-shirt/1165_3534_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 115
+                }
+        },
+        {
+                "item_name": "AE 24/7 Zip-Up Hoodie",
+                "price": {
+                        "regular_price": "84.95",
+                        "sale_price": "63.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/active-hoodies/ae-24/7-zip-up-hoodie/0196_2346_069?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 116
+                }
+        },
+        {
+                "item_name": "AE 24/7 Crew Neck Sweatshirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/active-hoodies/ae-24/7-crew-neck-sweatshirt/1516_2103_140?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 117
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Original Bootcut Jean",
+                "price": {
+                        "regular_price": "64.95",
+                        "sale_price": "48.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/bootcut-jeans/original-bootcut-jeans/ae-airflex-original-bootcut-jean/0115_6835_432?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 118
+                }
+        },
+        {
+                "item_name": "AE Solid Hoodie",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/pullover-hoodies/ae-solid-hoodie/0193_2307_202?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 119
+                }
+        },
+        {
+                "item_name": "AE 24/7 Training Full-Zip Hoodie",
+                "price": {
+                        "regular_price": "84.95",
+                        "sale_price": "63.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/active-hoodies/ae-24/7-training-full-zip-hoodie/0196_2313_415?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 120
+                }
+        },
+        {
+                "item_name": "AE Fleece Crew Neck Sweatshirt",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "44.96"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/sweatshirts/ae-fleece-crew-neck-sweatshirt/0191_2309_140?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 121
+                }
+        },
+        {
+                "item_name": "AE Oversized Washed Logo Graphic Hoodie",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/pullover-hoodies/ae-oversized-washed-logo-graphic-hoodie/0193_2304_709?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 122
+                }
+        },
+        {
+                "item_name": "AE Printed Hoodie",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "39.99"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/pullover-hoodies/ae-printed-hoodie/0193_2303_209?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 123
+                }
+        },
+        {
+                "item_name": "AE Boxy Zip-Up Hoodie",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "37.47"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/zip-up-hoodies/ae-boxy-zip-up-hoodie/1515_2323_212?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 124
+                }
+        },
+        {
+                "item_name": "AE Legend Striped T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "11.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/t-shirts/crew-neck-t-shirts/ae-legend-striped-t-shirt/1164_3621_212?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 125
+                }
+        },
+        {
+                "item_name": "AE 24/7 Quarter-Zip Sweatshirt",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "56.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/active-hoodies/ae-24/7-quarter-zip-sweatshirt/1516_2354_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 126
+                }
+        },
+        {
+                "item_name": "AE Lightweight Crew Neck Sweater",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "41.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-lightweight-crew-neck-sweater/1142_1875_410?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 127
+                }
+        },
+        {
+                "item_name": "AE Cotton Bomber Jacket",
+                "price": {
+                        "regular_price": "124.95",
+                        "sale_price": "93.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-cotton-bomber-jacket/2101_1624_309?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 128
+                }
+        },
+        {
+                "item_name": "AE 24/7 Colorblock Running Jacket",
+                "price": {
+                        "regular_price": "109.95",
+                        "sale_price": "82.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-24/7-colorblock-running-jacket/0104_1627_353?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 129
+                }
+        },
+        {
+                "item_name": "AE Trail Jacket",
+                "price": {
+                        "regular_price": "109.95",
+                        "sale_price": "82.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-trail-jacket/2101_1630_014?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 131
+                }
+        },
+        {
+                "item_name": "AE Coach's Jacket",
+                "price": {
+                        "regular_price": "109.95",
+                        "sale_price": "82.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-coach-s-jacket/2101_1621_441?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 132
+                }
+        },
+        {
+                "item_name": "AE Corduroy Trucker Jacket",
+                "price": {
+                        "regular_price": "124.95",
+                        "sale_price": "93.71"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-corduroy-trucker-jacket/2101_1633_212?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 133
+                }
+        },
+        {
+                "item_name": "AE Short Sleeve Graphic T-Shirt",
+                "price": {
+                        "regular_price": "29.95",
+                        "sale_price": "22.46"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/graphic-tops/branded/ae-short-sleeve-graphic-t-shirt/0181_3947_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 134
+                }
+        },
+        {
+                "item_name": "AE Floral Button-Up Poolside Shirt",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "27.47"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/poolside-shirts/poolside-shirts/ae-floral-button-up-poolside-shirt/2154_6332_111?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 135
+                }
+        },
+        {
+                "item_name": "AE Mechanic Shirt",
+                "price": {
+                        "regular_price": "74.95",
+                        "sale_price": "22.48"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/jackets/jackets-coats/ae-mechanic-shirt/2512_6207_421?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 136
+                }
+        },
+        {
+                "item_name": "AE AirFlex+ Athletic Fit Jean",
+                "price": {
+                        "regular_price": "54.95",
+                        "sale_price": "41.21"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/athletic-fit-jeans/athletic-fit-jeans/ae-airflex-athletic-fit-jean/0118_6322_450?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 137
+                }
+        },
+        {
+                "item_name": "AE 24/7 Graphic SPF T-Shirt",
+                "price": {
+                        "regular_price": "24.95",
+                        "sale_price": "9.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/activewear/tops/ae-24/7-graphic-spf-t-shirt/0181_3677_100?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 139
+                }
+        },
+        {
+                "item_name": "AE Stretch Bonfire Graphic Hoodie",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "23.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/pullover-hoodies/ae-stretch-bonfire-graphic-hoodie/0193_2270_654?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 140
+                }
+        },
+        {
+                "item_name": "AE Stretch Bonfire Hoodie",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "23.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/hoodies-sweatshirts/pullover-hoodies/ae-stretch-bonfire-hoodie/0193_2297_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 141
+                }
+        },
+        {
+                "item_name": "AE Crewneck Sweater",
+                "price": {
+                        "regular_price": "59.95",
+                        "sale_price": "23.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/tops/sweaters/ae-crewneck-sweater/1142_1822_864?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 142
+                }
+        },
+        {
+                "item_name": "AE Workwear Beanie",
+                "price": {
+                        "regular_price": "19.95",
+                        "sale_price": "7.98"
+                },
+                "item_link": "https://www.ae.com/ca/en/p/men/accessories-socks/hats/ae-workwear-beanie/0222_6908_001?menu=cat4840004",
+                "log_pos": {
+                        "sheet": "shirt ",
+                        "row": 143
+                }
+        }
+]

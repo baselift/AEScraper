@@ -1,0 +1,2220 @@
+{
+  "data": {
+    "type": "search",
+    "id": "f9f75a9d-d14d-427c-bd3c-c45dff45a91b",
+    "attributes": {
+      "request": {
+        "fmt_options": {
+          "groups_start": "current",
+          "hidden_facets": [
+            "display_price_AEO_US"
+          ],
+          "show_hidden_fields": false,
+          "show_hidden_facets": false,
+          "groups_max_depth": 1,
+          "show_protected_facets": false,
+          "hidden_fields": [
+            "price_data_AEO_US",
+            "merchant_flags_AEO_US",
+            "promotion_AEO_US",
+            "marketing_message_AEO_US",
+            "undiebundler_AEO_US"
+          ]
+        },
+        "features": {
+          "manual_searchandizing": true,
+          "personalization": true,
+          "use_reranker_service_for_search": true,
+          "filter_items": true,
+          "disable_test_only_global_rules_browse": false,
+          "custom_autosuggest_ui": false,
+          "auto_generated_refined_query_rules": true,
+          "use_reranker_service_for_all": false,
+          "a_a_test": false,
+          "use_reranker_service_for_browse": false,
+          "disable_test_only_global_rules_search": false,
+          "query_items": true
+        },
+        "feature_variants": {
+          "manual_searchandizing": null,
+          "personalization": "default_personalization",
+          "use_reranker_service_for_search": "search_reranker_light_with_personalization_60_merch_rules",
+          "filter_items": "filter_items_w_atcs_and_purchases",
+          "disable_test_only_global_rules_browse": null,
+          "custom_autosuggest_ui": null,
+          "auto_generated_refined_query_rules": "default_rules",
+          "use_reranker_service_for_all": null,
+          "a_a_test": null,
+          "use_reranker_service_for_browse": null,
+          "disable_test_only_global_rules_search": null,
+          "query_items": "query_items_strong_conversions_weak_clicks_14d"
+        },
+        "section": "Products",
+        "term": "shirt",
+        "filter_match_types": {
+          "sku_enabled_sites": "any",
+          "gender": "any",
+          "avail_aeo_us": "any",
+          "enabled_sites": "any"
+        },
+        "searchandized_items": {},
+        "sort_by": "relevance",
+        "filters": {
+          "sku_enabled_sites": [
+            "AEO_US"
+          ],
+          "gender": [
+            "Men"
+          ],
+          "avail_aeo_us": [
+            "IN_STOCK",
+            "LIMITED"
+          ],
+          "enabled_sites": [
+            "AEO_US"
+          ]
+        },
+        "page": 1,
+        "num_results_per_page": 60,
+        "sort_order": "descending"
+      },
+      "totalNumResults": 263,
+      "page": 1,
+      "resultsPerPage": 60,
+      "originalTerm": "shirt",
+      "matchedTerm": "shirt",
+      "filters": [
+        {
+          "name": "brand",
+          "displayName": "Brand",
+          "type": "multiple",
+          "options": [
+            {
+              "status": "",
+              "value": "AE",
+              "displayName": "AE",
+              "count": 248
+            }
+          ]
+        },
+        {
+          "name": "gender",
+          "displayName": "Gender",
+          "type": "multiple",
+          "options": [
+            {
+              "status": "",
+              "value": "Women",
+              "displayName": "Women",
+              "count": 335
+            },
+            {
+              "status": "selected",
+              "value": "Men",
+              "displayName": "Men",
+              "count": 263
+            }
+          ]
+        },
+        {
+          "name": "color_family_name",
+          "displayName": "Color",
+          "type": "multiple",
+          "options": [
+            {
+              "status": "",
+              "value": "black",
+              "displayName": "Black",
+              "count": 19
+            },
+            {
+              "status": "",
+              "value": "blue",
+              "displayName": "Blue",
+              "count": 70
+            },
+            {
+              "status": "",
+              "value": "green",
+              "displayName": "Green",
+              "count": 30
+            },
+            {
+              "status": "",
+              "value": "multi-colored",
+              "displayName": "Multi-Colored",
+              "count": 8
+            },
+            {
+              "status": "",
+              "value": "red",
+              "displayName": "Red",
+              "count": 4
+            },
+            {
+              "status": "",
+              "value": "white",
+              "displayName": "White",
+              "count": 33
+            },
+            {
+              "status": "",
+              "value": "Grey",
+              "displayName": "Grey",
+              "count": 36
+            },
+            {
+              "status": "",
+              "value": "neutral",
+              "displayName": "Neutral",
+              "count": 11
+            },
+            {
+              "status": "",
+              "value": "pink",
+              "displayName": "Pink",
+              "count": 14
+            },
+            {
+              "status": "",
+              "value": "burgundy",
+              "displayName": "Burgundy",
+              "count": 24
+            },
+            {
+              "status": "",
+              "value": "yellow",
+              "displayName": "Yellow",
+              "count": 3
+            },
+            {
+              "status": "",
+              "value": "orange",
+              "displayName": "Orange",
+              "count": 6
+            },
+            {
+              "status": "",
+              "value": "brown",
+              "displayName": "Brown",
+              "count": 4
+            },
+            {
+              "status": "",
+              "value": "metallic",
+              "displayName": "Metallic",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "price",
+          "displayName": "Price",
+          "type": "multiple",
+          "options": [
+            {
+              "status": "",
+              "value": "\"-inf\"-\"10\"",
+              "displayName": "Less than $10",
+              "count": 43
+            },
+            {
+              "status": "",
+              "value": "\"10\"-\"25\"",
+              "displayName": "$10 - $25",
+              "count": 170
+            },
+            {
+              "status": "",
+              "value": "\"25\"-\"50\"",
+              "displayName": "$25 - $50",
+              "count": 77
+            },
+            {
+              "status": "",
+              "value": "\"50\"-\"75\"",
+              "displayName": "$50 - $75",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "size",
+          "displayName": "Size",
+          "type": "multiple",
+          "options": [
+            {
+              "status": "",
+              "value": "L",
+              "displayName": "L",
+              "count": 218
+            },
+            {
+              "status": "",
+              "value": "L Tall",
+              "displayName": "L Tall",
+              "count": 189
+            },
+            {
+              "status": "",
+              "value": "M",
+              "displayName": "M",
+              "count": 214
+            },
+            {
+              "status": "",
+              "value": "M Tall",
+              "displayName": "M Tall",
+              "count": 186
+            },
+            {
+              "status": "",
+              "value": "S",
+              "displayName": "S",
+              "count": 205
+            },
+            {
+              "status": "",
+              "value": "XL",
+              "displayName": "XL",
+              "count": 204
+            },
+            {
+              "status": "",
+              "value": "XL Tall",
+              "displayName": "XL Tall",
+              "count": 177
+            },
+            {
+              "status": "",
+              "value": "XS",
+              "displayName": "XS",
+              "count": 193
+            },
+            {
+              "status": "",
+              "value": "XXL",
+              "displayName": "XXL",
+              "count": 182
+            },
+            {
+              "status": "",
+              "value": "XXXL",
+              "displayName": "XXXL",
+              "count": 170
+            }
+          ]
+        }
+      ],
+      "sorts": [
+        {
+          "sortBy": "relevance",
+          "displayName": "Featured",
+          "sortOrder": "descending",
+          "status": "selected"
+        },
+        {
+          "sortBy": "price",
+          "displayName": "Price: Low To High",
+          "sortOrder": "ascending",
+          "status": ""
+        },
+        {
+          "sortBy": "price",
+          "displayName": "Price: High To Low",
+          "sortOrder": "descending",
+          "status": ""
+        },
+        {
+          "sortBy": "newArrival",
+          "displayName": "Newest",
+          "sortOrder": "descending",
+          "status": ""
+        }
+      ]
+    },
+    "relationships": {
+      "products": {
+        "data": [
+          {
+            "id": "1164_2711_001",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_410",
+            "type": "product"
+          },
+          {
+            "id": "1164_2829_347",
+            "type": "product"
+          },
+          {
+            "id": "0189_3244_100",
+            "type": "product"
+          },
+          {
+            "id": "0160_1800_410",
+            "type": "product"
+          },
+          {
+            "id": "1164_2711_100",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_043",
+            "type": "product"
+          },
+          {
+            "id": "1165_3391_900",
+            "type": "product"
+          },
+          {
+            "id": "1164_2711_410",
+            "type": "product"
+          },
+          {
+            "id": "0185_3240_211",
+            "type": "product"
+          },
+          {
+            "id": "0185_3241_020",
+            "type": "product"
+          },
+          {
+            "id": "1164_2829_309",
+            "type": "product"
+          },
+          {
+            "id": "1164_3382_308",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_207",
+            "type": "product"
+          },
+          {
+            "id": "0160_1800_212",
+            "type": "product"
+          },
+          {
+            "id": "1164_2829_613",
+            "type": "product"
+          },
+          {
+            "id": "0189_3246_020",
+            "type": "product"
+          },
+          {
+            "id": "0189_3243_001",
+            "type": "product"
+          },
+          {
+            "id": "0160_1800_100",
+            "type": "product"
+          },
+          {
+            "id": "0185_3242_800",
+            "type": "product"
+          },
+          {
+            "id": "2154_6046_400",
+            "type": "product"
+          },
+          {
+            "id": "1164_2711_615",
+            "type": "product"
+          },
+          {
+            "id": "0153_6177_523",
+            "type": "product"
+          },
+          {
+            "id": "1164_2829_415",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_001",
+            "type": "product"
+          },
+          {
+            "id": "2151_5962_410",
+            "type": "product"
+          },
+          {
+            "id": "2151_5961_300",
+            "type": "product"
+          },
+          {
+            "id": "1164_2829_008",
+            "type": "product"
+          },
+          {
+            "id": "1165_3393_900",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_615",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_100",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_613",
+            "type": "product"
+          },
+          {
+            "id": "1164_2711_613",
+            "type": "product"
+          },
+          {
+            "id": "1164_2829_006",
+            "type": "product"
+          },
+          {
+            "id": "2151_5963_700",
+            "type": "product"
+          },
+          {
+            "id": "2154_6044_410",
+            "type": "product"
+          },
+          {
+            "id": "0181_3110_451",
+            "type": "product"
+          },
+          {
+            "id": "1164_2708_023",
+            "type": "product"
+          },
+          {
+            "id": "1164_3382_408",
+            "type": "product"
+          },
+          {
+            "id": "1175_3103_001",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_404",
+            "type": "product"
+          },
+          {
+            "id": "1163_3403_900",
+            "type": "product"
+          },
+          {
+            "id": "2154_5980_100",
+            "type": "product"
+          },
+          {
+            "id": "1164_3382_297",
+            "type": "product"
+          },
+          {
+            "id": "1164_2708_501",
+            "type": "product"
+          },
+          {
+            "id": "1175_3103_421",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_343",
+            "type": "product"
+          },
+          {
+            "id": "2154_6037_405",
+            "type": "product"
+          },
+          {
+            "id": "0166_3356_309",
+            "type": "product"
+          },
+          {
+            "id": "2154_6032_415",
+            "type": "product"
+          },
+          {
+            "id": "0153_6054_423",
+            "type": "product"
+          },
+          {
+            "id": "0181_3110_353",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_311",
+            "type": "product"
+          },
+          {
+            "id": "1164_3382_713",
+            "type": "product"
+          },
+          {
+            "id": "1175_3103_100",
+            "type": "product"
+          },
+          {
+            "id": "0181_3110_309",
+            "type": "product"
+          },
+          {
+            "id": "0181_3107_297",
+            "type": "product"
+          },
+          {
+            "id": "0181_3110_008",
+            "type": "product"
+          },
+          {
+            "id": "0181_3136_100",
+            "type": "product"
+          },
+          {
+            "id": "0181_3110_400",
+            "type": "product"
+          }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "id": "1164_2711_001",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2711_001?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2711_001_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_001_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_001_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_001_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_001_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_001_os"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_410",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_410?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_410_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_410_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_410_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_410_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_410_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_410_os",
+          "//s7d2.scene7.com/is/content/aeo/0181_3107_410_v"
+        ]
+      }
+    },
+    {
+      "id": "1164_2829_347",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2829_347?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2829_347_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_347_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_347_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_347_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_347_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_347_os"
+        ]
+      }
+    },
+    {
+      "id": "0189_3244_100",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Long-Sleeve Halloween Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/graphic-tees/branded/ae-super-soft-long-sleeve-halloween-graphic-t-shirt/0189_3244_100?menu=cat8050004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0189_3244_100_of",
+        "brandName": "Tailgate",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 39.95,
+          "minSalePrice": 39.95,
+          "minListPrice": 39.95,
+          "maxSalePrice": 39.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0189_3244_100_of",
+          "//s7d2.scene7.com/is/image/aeo/0189_3244_100_ob",
+          "//s7d2.scene7.com/is/image/aeo/0189_3244_100_f",
+          "//s7d2.scene7.com/is/image/aeo/0189_3244_100_b",
+          "//s7d2.scene7.com/is/image/aeo/0189_3244_100_os"
+        ]
+      }
+    },
+    {
+      "id": "0160_1800_410",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Smiley Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/graphic-tees/pop-culture/ae-super-soft-smiley-graphic-t-shirt/0160_1800_410?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0160_1800_410_f",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 24.95,
+          "minSalePrice": 22.45,
+          "minListPrice": 24.95,
+          "maxSalePrice": 22.45
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0160_1800_410_f",
+          "//s7d2.scene7.com/is/image/aeo/0160_1800_410_b"
+        ]
+      }
+    },
+    {
+      "id": "1164_2711_100",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2711_100?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2711_100_l1",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_100_l1",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_100_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_100_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_100_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_100_b"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_043",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_043?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_043_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_043_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_043_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_043_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_043_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_043_os",
+          "//s7d2.scene7.com/is/content/aeo/0181_3107_043_v"
+        ]
+      }
+    },
+    {
+      "id": "1165_3391_900",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend Pique Polo Shirt 3-Pack",
+        "description": null,
+        "productUrl": "/p/men/polos/pique-polos/ae-super-soft-legend-pique-polo-shirt-3-pack/1165_3391_900?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1165_3391_900_f",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 69.95,
+          "minSalePrice": 69.95,
+          "minListPrice": 69.95,
+          "maxSalePrice": 69.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1165_3391_900_f"
+        ]
+      }
+    },
+    {
+      "id": "1164_2711_410",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2711_410?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2711_410_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_410_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_410_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_410_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_410_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_410_os",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_410_d2"
+        ]
+      }
+    },
+    {
+      "id": "0185_3240_211",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Long-Sleeve Halloween Snoopy Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/graphic-tees/branded/ae-super-soft-long-sleeve-halloween-snoopy-graphic-t-shirt/0185_3240_211?menu=cat8050004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0185_3240_211_of",
+        "brandName": "Tailgate",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 29.95,
+          "minSalePrice": 29.95,
+          "minListPrice": 29.95,
+          "maxSalePrice": 29.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0185_3240_211_of",
+          "//s7d2.scene7.com/is/image/aeo/0185_3240_211_ob",
+          "//s7d2.scene7.com/is/image/aeo/0185_3240_211_f",
+          "//s7d2.scene7.com/is/image/aeo/0185_3240_211_b",
+          "//s7d2.scene7.com/is/image/aeo/0185_3240_211_os"
+        ]
+      }
+    },
+    {
+      "id": "0185_3241_020",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Long-Sleeve Halloween Grateful Dead Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/graphic-tees/branded/ae-super-soft-long-sleeve-halloween-grateful-dead-graphic-t-shirt/0185_3241_020?menu=cat8050004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0185_3241_020_of",
+        "brandName": "Tailgate",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 29.95,
+          "minSalePrice": 29.95,
+          "minListPrice": 29.95,
+          "maxSalePrice": 29.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0185_3241_020_of",
+          "//s7d2.scene7.com/is/image/aeo/0185_3241_020_ob",
+          "//s7d2.scene7.com/is/image/aeo/0185_3241_020_f",
+          "//s7d2.scene7.com/is/image/aeo/0185_3241_020_b"
+        ]
+      }
+    },
+    {
+      "id": "1164_2829_309",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2829_309?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2829_309_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_309_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_309_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_309_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_309_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_309_os"
+        ]
+      }
+    },
+    {
+      "id": "1164_3382_308",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_3382_308?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_3382_308_l1",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_308_l1",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_308_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_308_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_308_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_308_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_308_os"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_207",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_207?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_207_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_207_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_207_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_207_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_207_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_207_os",
+          "//s7d2.scene7.com/is/content/aeo/0181_3107_207_v"
+        ]
+      }
+    },
+    {
+      "id": "0160_1800_212",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Smiley Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/graphic-tees/pop-culture/ae-super-soft-smiley-graphic-t-shirt/0160_1800_212?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0160_1800_212_f",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 24.95,
+          "minSalePrice": 22.45,
+          "minListPrice": 24.95,
+          "maxSalePrice": 22.45
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0160_1800_212_f",
+          "//s7d2.scene7.com/is/image/aeo/0160_1800_212_b"
+        ]
+      }
+    },
+    {
+      "id": "1164_2829_613",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2829_613?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2829_613_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_613_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_613_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_613_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_613_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_613_os"
+        ]
+      }
+    },
+    {
+      "id": "0189_3246_020",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Long-Sleeve Halloween Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/graphic-tees/branded/ae-super-soft-long-sleeve-halloween-graphic-t-shirt/0189_3246_020?menu=cat8050004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0189_3246_020_of",
+        "brandName": "Tailgate",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 39.95,
+          "minSalePrice": 39.95,
+          "minListPrice": 39.95,
+          "maxSalePrice": 39.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0189_3246_020_of",
+          "//s7d2.scene7.com/is/image/aeo/0189_3246_020_ob",
+          "//s7d2.scene7.com/is/image/aeo/0189_3246_020_f",
+          "//s7d2.scene7.com/is/image/aeo/0189_3246_020_b",
+          "//s7d2.scene7.com/is/image/aeo/0189_3246_020_os"
+        ]
+      }
+    },
+    {
+      "id": "0189_3243_001",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Long-Sleeve Halloween Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/graphic-tees/branded/ae-super-soft-long-sleeve-halloween-graphic-t-shirt/0189_3243_001?menu=cat8050004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0189_3243_001_of",
+        "brandName": "Tailgate",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 39.95,
+          "minSalePrice": 39.95,
+          "minListPrice": 39.95,
+          "maxSalePrice": 39.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0189_3243_001_of",
+          "//s7d2.scene7.com/is/image/aeo/0189_3243_001_ob",
+          "//s7d2.scene7.com/is/image/aeo/0189_3243_001_f",
+          "//s7d2.scene7.com/is/image/aeo/0189_3243_001_b",
+          "//s7d2.scene7.com/is/image/aeo/0189_3243_001_os",
+          "//s7d2.scene7.com/is/image/aeo/0189_3243_001_d1"
+        ]
+      }
+    },
+    {
+      "id": "0160_1800_100",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Snoopy Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/graphic-tees/pop-culture/ae-super-soft-snoopy-graphic-t-shirt/0160_1800_100?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0160_1800_100_f",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 24.95,
+          "minSalePrice": 22.45,
+          "minListPrice": 24.95,
+          "maxSalePrice": 22.45
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0160_1800_100_f",
+          "//s7d2.scene7.com/is/image/aeo/0160_1800_100_b"
+        ]
+      }
+    },
+    {
+      "id": "0185_3242_800",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Long-Sleeve Tie-Dye Halloween T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/graphic-tees/branded/ae-super-soft-long-sleeve-tie-dye-halloween-t-shirt/0185_3242_800?menu=cat8050004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0185_3242_800_of",
+        "brandName": "Tailgate",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 29.95,
+          "minSalePrice": 29.95,
+          "minListPrice": 29.95,
+          "maxSalePrice": 29.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0185_3242_800_of",
+          "//s7d2.scene7.com/is/image/aeo/0185_3242_800_ob",
+          "//s7d2.scene7.com/is/image/aeo/0185_3242_800_f",
+          "//s7d2.scene7.com/is/image/aeo/0185_3242_800_b",
+          "//s7d2.scene7.com/is/image/aeo/0185_3242_800_os"
+        ]
+      }
+    },
+    {
+      "id": "2154_6046_400",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Button-Up Poolside Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/poolside-shirts/ae-button-up-poolside-shirt/2154_6046_400?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/2154_6046_400_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 44.95,
+          "minSalePrice": 24.99,
+          "minListPrice": 44.95,
+          "maxSalePrice": 24.99
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/2154_6046_400_of",
+          "//s7d2.scene7.com/is/image/aeo/2154_6046_400_ob",
+          "//s7d2.scene7.com/is/image/aeo/2154_6046_400_f",
+          "//s7d2.scene7.com/is/image/aeo/2154_6046_400_b",
+          "//s7d2.scene7.com/is/image/aeo/2154_6046_400_os"
+        ]
+      }
+    },
+    {
+      "id": "1164_2711_615",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2711_615?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2711_615_l1",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_615_l1",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_615_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_615_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_615_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_615_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_615_os"
+        ]
+      }
+    },
+    {
+      "id": "0153_6177_523",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Denim Button-Up Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/everyday-shirts/ae-denim-button-up-shirt/0153_6177_523?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0153_6177_523_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 49.95,
+          "minSalePrice": 34.99,
+          "minListPrice": 49.95,
+          "maxSalePrice": 34.99
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0153_6177_523_of",
+          "//s7d2.scene7.com/is/image/aeo/0153_6177_523_ob",
+          "//s7d2.scene7.com/is/image/aeo/0153_6177_523_f",
+          "//s7d2.scene7.com/is/image/aeo/0153_6177_523_b",
+          "//s7d2.scene7.com/is/image/aeo/0153_6177_523_os"
+        ]
+      }
+    },
+    {
+      "id": "1164_2829_415",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2829_415?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2829_415_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_415_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_415_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_415_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_415_b"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_001",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_001?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_001_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_001_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_001_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_001_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_001_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_001_os"
+        ]
+      }
+    },
+    {
+      "id": "2151_5962_410",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Flannel Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/flannel-shirts/ae-super-soft-flannel-shirt/2151_5962_410?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/2151_5962_410_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 49.95,
+          "minSalePrice": 29.99,
+          "minListPrice": 49.95,
+          "maxSalePrice": 29.99
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/2151_5962_410_of",
+          "//s7d2.scene7.com/is/image/aeo/2151_5962_410_ob",
+          "//s7d2.scene7.com/is/image/aeo/2151_5962_410_f",
+          "//s7d2.scene7.com/is/image/aeo/2151_5962_410_b",
+          "//s7d2.scene7.com/is/image/aeo/2151_5962_410_os"
+        ]
+      }
+    },
+    {
+      "id": "2151_5961_300",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Flannel Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/flannel-shirts/ae-super-soft-flannel-shirt/2151_5961_300?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/2151_5961_300_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 49.95,
+          "minSalePrice": 29.99,
+          "minListPrice": 49.95,
+          "maxSalePrice": 29.99
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/2151_5961_300_of",
+          "//s7d2.scene7.com/is/image/aeo/2151_5961_300_ob",
+          "//s7d2.scene7.com/is/image/aeo/2151_5961_300_f",
+          "//s7d2.scene7.com/is/image/aeo/2151_5961_300_b",
+          "//s7d2.scene7.com/is/image/aeo/2151_5961_300_os"
+        ]
+      }
+    },
+    {
+      "id": "1164_2829_008",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2829_008?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2829_008_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_008_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_008_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_008_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_008_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_008_os"
+        ]
+      }
+    },
+    {
+      "id": "1165_3393_900",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend Pique Polo Shirt 3-Pack",
+        "description": null,
+        "productUrl": "/p/men/polos/pique-polos/ae-super-soft-legend-pique-polo-shirt-3-pack/1165_3393_900?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1165_3393_900_f",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 69.95,
+          "minSalePrice": 69.95,
+          "minListPrice": 69.95,
+          "maxSalePrice": 69.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1165_3393_900_f"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_615",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_615?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_615_l1",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_615_l1",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_615_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_615_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_615_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_615_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_615_os",
+          "//s7d2.scene7.com/is/content/aeo/0181_3107_615_v"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_100",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_100?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_100_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_100_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_100_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_100_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_100_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_100_os",
+          "//s7d2.scene7.com/is/content/aeo/0181_3107_100_v"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_613",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_613?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_613_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_613_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_613_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_613_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_613_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_613_os",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_613_d2",
+          "//s7d2.scene7.com/is/content/aeo/0181_3107_613_v"
+        ]
+      }
+    },
+    {
+      "id": "1164_2711_613",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2711_613?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2711_613_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_613_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_613_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_613_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_613_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_613_os",
+          "//s7d2.scene7.com/is/image/aeo/1164_2711_613_d2"
+        ]
+      }
+    },
+    {
+      "id": "1164_2829_006",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2829_006?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2829_006_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_006_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_006_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_006_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2829_006_b"
+        ]
+      }
+    },
+    {
+      "id": "2151_5963_700",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Flannel Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/flannel-shirts/ae-super-soft-flannel-shirt/2151_5963_700?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/2151_5963_700_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 49.95,
+          "minSalePrice": 29.99,
+          "minListPrice": 49.95,
+          "maxSalePrice": 29.99
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/2151_5963_700_of",
+          "//s7d2.scene7.com/is/image/aeo/2151_5963_700_ob",
+          "//s7d2.scene7.com/is/image/aeo/2151_5963_700_f",
+          "//s7d2.scene7.com/is/image/aeo/2151_5963_700_b"
+        ]
+      }
+    },
+    {
+      "id": "2154_6044_410",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Tropical Button-Up Poolside Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/poolside-shirts/ae-tropical-button-up-poolside-shirt/2154_6044_410?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/2154_6044_410_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 44.95,
+          "minSalePrice": 24.99,
+          "minListPrice": 44.95,
+          "maxSalePrice": 24.99
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/2154_6044_410_of",
+          "//s7d2.scene7.com/is/image/aeo/2154_6044_410_ob",
+          "//s7d2.scene7.com/is/image/aeo/2154_6044_410_f",
+          "//s7d2.scene7.com/is/image/aeo/2154_6044_410_b",
+          "//s7d2.scene7.com/is/image/aeo/2154_6044_410_os"
+        ]
+      }
+    },
+    {
+      "id": "0181_3110_451",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3110_451?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3110_451_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_451_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_451_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_451_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_451_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_451_os",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_451_d2"
+        ]
+      }
+    },
+    {
+      "id": "1164_2708_023",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2708_023?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2708_023_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_023_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_023_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_023_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_023_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_023_os"
+        ]
+      }
+    },
+    {
+      "id": "1164_3382_408",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_3382_408?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_3382_408_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_408_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_408_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_408_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_408_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_408_os"
+        ]
+      }
+    },
+    {
+      "id": "1175_3103_001",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Photo Graphic Hoodie T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-photo-graphic-hoodie-t-shirt/1175_3103_001?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1175_3103_001_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 44.95,
+          "minSalePrice": 13.48,
+          "minListPrice": 44.95,
+          "maxSalePrice": 13.48
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_001_of",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_001_ob",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_001_f",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_001_b",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_001_os",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_001_d2"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_404",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_404?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_404_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_404_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_404_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_404_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_404_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_404_os",
+          "//s7d2.scene7.com/is/content/aeo/0181_3107_404_v"
+        ]
+      }
+    },
+    {
+      "id": "1163_3403_900",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt 3-Pack",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt-3-pack/1163_3403_900?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1163_3403_900_f",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "plpMarketingMessage": "Excluded from promotion",
+        "prices": {
+          "maxListPrice": 34.95,
+          "minSalePrice": 34.95,
+          "minListPrice": 34.95,
+          "maxSalePrice": 34.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1163_3403_900_f"
+        ]
+      }
+    },
+    {
+      "id": "2154_5980_100",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Tropical Button-Up Poolside Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/poolside-shirts/ae-tropical-button-up-poolside-shirt/2154_5980_100?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/2154_5980_100_f",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 44.95,
+          "minSalePrice": 13.48,
+          "minListPrice": 44.95,
+          "maxSalePrice": 13.48
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/2154_5980_100_f",
+          "//s7d2.scene7.com/is/image/aeo/2154_5980_100_b",
+          "//s7d2.scene7.com/is/content/aeo/2154_5980_100_v"
+        ]
+      }
+    },
+    {
+      "id": "1164_3382_297",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_3382_297?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_3382_297_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_297_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_297_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_297_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_297_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_297_os"
+        ]
+      }
+    },
+    {
+      "id": "1164_2708_501",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_2708_501?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_2708_501_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_501_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_501_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_501_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_501_b",
+          "//s7d2.scene7.com/is/image/aeo/1164_2708_501_os"
+        ]
+      }
+    },
+    {
+      "id": "1175_3103_421",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Photo Graphic Hoodie T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-photo-graphic-hoodie-t-shirt/1175_3103_421?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1175_3103_421_l1",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 44.95,
+          "minSalePrice": 13.48,
+          "minListPrice": 44.95,
+          "maxSalePrice": 13.48
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_421_l1",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_421_of",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_421_ob",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_421_f",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_421_b",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_421_os"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_343",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_343?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_343_l1",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_343_l1",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_343_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_343_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_343_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_343_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_343_os"
+        ]
+      }
+    },
+    {
+      "id": "2154_6037_405",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Tropical Button-Up Resort Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/resort-shirts/ae-tropical-button-up-resort-shirt/2154_6037_405?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/2154_6037_405_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 44.95,
+          "minSalePrice": 10.49,
+          "minListPrice": 44.95,
+          "maxSalePrice": 10.49
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/2154_6037_405_of",
+          "//s7d2.scene7.com/is/image/aeo/2154_6037_405_ob",
+          "//s7d2.scene7.com/is/image/aeo/2154_6037_405_f",
+          "//s7d2.scene7.com/is/image/aeo/2154_6037_405_b",
+          "//s7d2.scene7.com/is/image/aeo/2154_6037_405_os",
+          "//s7d2.scene7.com/is/content/aeo/2154_6037_405_v"
+        ]
+      }
+    },
+    {
+      "id": "0166_3356_309",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Hooded Knit T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/knit-shirts/ae-super-soft-hooded-knit-t-shirt/0166_3356_309?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0166_3356_309_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 49.95,
+          "minSalePrice": 29.99,
+          "minListPrice": 49.95,
+          "maxSalePrice": 29.99
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0166_3356_309_of",
+          "//s7d2.scene7.com/is/image/aeo/0166_3356_309_ob",
+          "//s7d2.scene7.com/is/image/aeo/0166_3356_309_f",
+          "//s7d2.scene7.com/is/image/aeo/0166_3356_309_b",
+          "//s7d2.scene7.com/is/image/aeo/0166_3356_309_os"
+        ]
+      }
+    },
+    {
+      "id": "2154_6032_415",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Striped Button-Up Resort Shirt",
+        "description": null,
+        "productUrl": "/p/men/shirts-flannels/resort-shirts/ae-striped-button-up-resort-shirt/2154_6032_415?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/2154_6032_415_l1",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 44.95,
+          "minSalePrice": 13.48,
+          "minListPrice": 44.95,
+          "maxSalePrice": 13.48
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/2154_6032_415_l1",
+          "//s7d2.scene7.com/is/image/aeo/2154_6032_415_of",
+          "//s7d2.scene7.com/is/image/aeo/2154_6032_415_ob",
+          "//s7d2.scene7.com/is/image/aeo/2154_6032_415_f",
+          "//s7d2.scene7.com/is/image/aeo/2154_6032_415_b",
+          "//s7d2.scene7.com/is/image/aeo/2154_6032_415_os",
+          "//s7d2.scene7.com/is/image/aeo/2154_6032_415_d2",
+          "//s7d2.scene7.com/is/content/aeo/2154_6032_415_v"
+        ]
+      }
+    },
+    {
+      "id": "0153_6054_423",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Everyday Plaid Button-Up Shirt",
+        "description": null,
+        "productUrl": "/p/men/everyday-shirts/everyday-plaid-shirts/ae-super-soft-everyday-plaid-button-up-shirt/0153_6054_423?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0153_6054_423_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 49.95,
+          "minSalePrice": 34.99,
+          "minListPrice": 49.95,
+          "maxSalePrice": 34.99
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0153_6054_423_of",
+          "//s7d2.scene7.com/is/image/aeo/0153_6054_423_ob",
+          "//s7d2.scene7.com/is/image/aeo/0153_6054_423_f",
+          "//s7d2.scene7.com/is/image/aeo/0153_6054_423_b",
+          "//s7d2.scene7.com/is/image/aeo/0153_6054_423_os",
+          "//s7d2.scene7.com/is/content/aeo/0153_6054_423_v"
+        ]
+      }
+    },
+    {
+      "id": "0181_3110_353",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3110_353?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3110_353_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_353_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_353_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_353_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_353_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_353_os",
+          "//s7d2.scene7.com/is/content/aeo/0181_3110_353_v"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_311",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_311?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_311_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_311_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_311_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_311_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_311_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_311_os",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_311_d2"
+        ]
+      }
+    },
+    {
+      "id": "1164_3382_713",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Legend T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/crew-neck-t-shirts/ae-super-soft-legend-t-shirt/1164_3382_713?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1164_3382_713_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 10,
+          "minListPrice": 19.95,
+          "maxSalePrice": 10
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_713_of",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_713_ob",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_713_f",
+          "//s7d2.scene7.com/is/image/aeo/1164_3382_713_b"
+        ]
+      }
+    },
+    {
+      "id": "1175_3103_100",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Photo Graphic Hoodie T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-photo-graphic-hoodie-t-shirt/1175_3103_100?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/1175_3103_100_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 44.95,
+          "minSalePrice": 13.48,
+          "minListPrice": 44.95,
+          "maxSalePrice": 13.48
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_100_of",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_100_ob",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_100_f",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_100_b",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_100_os",
+          "//s7d2.scene7.com/is/image/aeo/1175_3103_100_d2"
+        ]
+      }
+    },
+    {
+      "id": "0181_3110_309",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3110_309?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3110_309_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_309_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_309_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_309_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_309_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_309_os",
+          "//s7d2.scene7.com/is/content/aeo/0181_3110_309_v"
+        ]
+      }
+    },
+    {
+      "id": "0181_3107_297",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3107_297?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3107_297_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_297_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_297_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_297_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_297_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_297_os",
+          "//s7d2.scene7.com/is/image/aeo/0181_3107_297_d2",
+          "//s7d2.scene7.com/is/content/aeo/0181_3107_297_v"
+        ]
+      }
+    },
+    {
+      "id": "0181_3110_008",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3110_008?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3110_008_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_008_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_008_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_008_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_008_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_008_os"
+        ]
+      }
+    },
+    {
+      "id": "0181_3136_100",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3136_100?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3136_100_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3136_100_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3136_100_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3136_100_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3136_100_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3136_100_os",
+          "//s7d2.scene7.com/is/image/aeo/0181_3136_100_d2"
+        ]
+      }
+    },
+    {
+      "id": "0181_3110_400",
+      "type": "product",
+      "attributes": {
+        "displayName": "AE Super Soft Logo Graphic T-Shirt",
+        "description": null,
+        "productUrl": "/p/men/t-shirts/graphic-tees/ae-super-soft-logo-graphic-t-shirt/0181_3110_400?menu=cat4840004",
+        "imageUrl": "//s7d2.scene7.com/is/image/aeo/0181_3110_400_of",
+        "brandName": "AE",
+        "merchantFlags": [
+          "New + Real Good"
+        ],
+        "prices": {
+          "maxListPrice": 19.95,
+          "minSalePrice": 17.95,
+          "minListPrice": 19.95,
+          "maxSalePrice": 17.95
+        },
+        "plpSortMediaArray": [
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_400_of",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_400_ob",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_400_f",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_400_b",
+          "//s7d2.scene7.com/is/image/aeo/0181_3110_400_os",
+          "//s7d2.scene7.com/is/content/aeo/0181_3110_400_v"
+        ]
+      }
+    }
+  ]
+}

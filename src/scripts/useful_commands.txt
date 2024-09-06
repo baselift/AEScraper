@@ -1,0 +1,5 @@
+Below commands based on the file path!
+
+
+C:\Eric\Code\Python\PyScraperOnePage\venv\Lib\site-packages\pip-autoremove.exe {package} -y
+C:\Eric\Code\Python\PyScraperOnePage\venv\Scripts\python.exe -m flask --app src\render_page run --debug
