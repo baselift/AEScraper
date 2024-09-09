@@ -1,8 +1,7 @@
 Scraper for AE (American Eagle) website that obtains
 the price details of all the items for a given
-search term on a given day. I am aware the code is
-not that clean, maybe I will make a improved, more widely applicable version
-in the future.
+search term on a given day. **I am aware the code is
+not that clean, I am currently working on an cleaner, more widely applicable version.**
 
 How to use:
 1. Launch an IDE
